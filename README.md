@@ -37,7 +37,7 @@
 │                      VPN Subnet 10.0.8.0/24                     │
 │                                                                 │
 │  ┌─────────────┐     ┌──────────────────┐                       │
-│  │    Kali     │────▶│ pfSense+Suricata  │                       │
+│  │    Kali     │────▶│ pfSense+Suricata  │                      │
 │  │ 10.0.8.6   │     │   10.0.8.1        │                       │
 │  │ (Attacker) │     │ (Firewall/NIDS)   │                       │
 │  └─────────────┘     └────────┬─────────┘                       │
@@ -73,7 +73,7 @@
 
 | Member | Component | VPN IP |
 |--------|-----------|--------|
-| **Yasser** (me) | Wazuh SIEM + NDR Probe | `10.0.8.5` / `10.0.8.8` |
+| **Yasser chettour** (me) | Wazuh SIEM + NDR Probe | `10.0.8.5` / `10.0.8.8` |
 | Mounir Merghich | pfSense + Suricata + OpenVPN Server | `10.0.8.1` |
 | Malak Belkhou | Shuffle SOAR + DVWA + Windows 10 Client | `10.0.8.4` |
 | Landry Dossah | Kali Linux (attacker) + Cowrie Honeypot | `10.0.8.6` / `10.0.8.10` |

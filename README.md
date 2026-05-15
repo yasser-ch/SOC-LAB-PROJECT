@@ -77,7 +77,7 @@
 | Mounir Merghich | pfSense + Suricata + OpenVPN Server | `10.0.8.1` |
 | Malak Belkhou | Shuffle SOAR + DVWA + Windows 10 Client | `10.0.8.4` |
 | Landry Dossah | Kali Linux (attacker) + Cowrie Honeypot | `10.0.8.6` / `10.0.8.10` |
-| Hiba Sidinou | TheHive + Cortex + MISP | `10.0.8.3` | [@hibasidinou](https://github.com/hibasidinou)
+| Hiba Sidinou | TheHive + Cortex + MISP | `10.0.8.3` | [@hibasidinou](https://github.com/hibasidinou) |
 
 ---
 

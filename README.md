@@ -76,7 +76,7 @@
 | Yasser Chettour | SIEM Engineer | Wazuh SIEM + NDR Probe | `10.0.8.5` / `10.0.8.8` | [@yasser-ch](https://github.com/yasser-ch) |
 | Mounir Merghich | Network Engineer | pfSense + Suricata | `10.0.8.1` | [@username](https://github.com/username) |
 | Malak Belkhou | SOAR Engineer | Shuffle + DVWA + Windows Client | `10.0.8.4` | [@username](https://github.com/username) |
-| Landry Dossah | Red Team / Deception | Kali Linux + Cowrie Honeypot | `10.0.8.6` / `10.0.8.10` | [@username](https://github.com/username) |
+| Landry Dossah | Red Team / Deception | Kali Linux + Cowrie Honeypot | `10.0.8.6` / `10.0.8.10` | [@m4jesty228](https://github.com/m4jesty228) |
 | Hiba Sidinou | Threat Intelligence | TheHive + Cortex + MISP | `10.0.8.3` | [@hibasidinou](https://github.com/hibasidinou) |
 
 ---

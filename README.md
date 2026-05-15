@@ -71,15 +71,13 @@
 
 ## 👥 Team
 
-# Contributors
-
 | Name | Role | Component | GitHub |
 |------|------|-----------|--------|
 | Yasser Chettour | SIEM Engineer | Wazuh SIEM + NDR Probe | [@yasser-ch](https://github.com/yasser-ch) |
 | Mounir Merghich | Network Engineer | pfSense + Suricata | [@username](https://github.com/username) |
 | Malak Belkhou | SOAR Engineer | Shuffle + DVWA + Windows Client | [@username](https://github.com/username) |
 | Landry Dossah | Red Team / Deception | Kali Linux + Cowrie Honeypot | [@username](https://github.com/username) |
-| Hiba Sidinou | Threat Intelligence | TheHive + Cortex + MISP | [@username](https://github.com/username) |
+| Hiba Sidinou | Threat Intelligence | TheHive + Cortex + MISP | [@hibasidinou](https://github.com/hibasidinou) |
 
 ---
 

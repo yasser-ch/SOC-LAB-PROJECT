@@ -71,13 +71,15 @@
 
 ## 👥 Team
 
-| Member | Component | VPN IP |
-|--------|-----------|--------|
-| **Yasser chettour** (me) | Wazuh SIEM + NDR Probe | `10.0.8.5` / `10.0.8.8` | [@username](https://github.com/username) |
-| Mounir Merghich | pfSense + Suricata + OpenVPN Server | `10.0.8.1` | [@username](https://github.com/username) |
-| Malak Belkhou | Shuffle SOAR + DVWA + Windows 10 Client | `10.0.8.4` | [@username](https://github.com/username) |
-| Landry Dossah | Kali Linux (attacker) + Cowrie Honeypot | `10.0.8.6` / `10.0.8.10` | [@username](https://github.com/username) |
-| Hiba Sidinou | TheHive + Cortex + MISP | `10.0.8.3` | [@hibasidinou](https://github.com/hibasidinou) |
+# Contributors
+
+| Name | Role | Component | GitHub |
+|------|------|-----------|--------|
+| Yasser Chettour | SIEM Engineer | Wazuh SIEM + NDR Probe | [@yasser-ch](https://github.com/yasser-ch) |
+| Mounir Merghich | Network Engineer | pfSense + Suricata | [@username](https://github.com/username) |
+| Malak Belkhou | SOAR Engineer | Shuffle + DVWA + Windows Client | [@username](https://github.com/username) |
+| Landry Dossah | Red Team / Deception | Kali Linux + Cowrie Honeypot | [@username](https://github.com/username) |
+| Hiba Sidinou | Threat Intelligence | TheHive + Cortex + MISP | [@username](https://github.com/username) |
 
 ---
 

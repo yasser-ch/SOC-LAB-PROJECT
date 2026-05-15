@@ -1,0 +1,14 @@
+[Unit]
+Description=Zeek Network Security Monitor
+After=network.target
+
+[Service]
+Type=forking
+Restart=on-failure
+RemainAfterExit=yes
+ExecStart=/opt/zeek/bin/zeekctl deploy
+ExecStop=/opt/zeek/bin/zeekctl stop
+User=root
+
+[Install]
+WantedBy=multi-user.target
